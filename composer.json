@@ -1,0 +1,7 @@
+{
+    "name": "ossipov/laradock-wp",
+    "description": "Laradock installed as Composer package with WP-CLI support",
+    "require": {
+        "php": ">5.3.3"
+    }
+}
